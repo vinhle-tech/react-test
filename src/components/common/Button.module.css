@@ -1,0 +1,23 @@
+button {
+  padding: 8px 16px;
+  border: 1px solid green;
+  cursor: pointer;
+  color: #fff;
+  background-color: black;
+}
+
+.primary {
+  background-color: red;
+}
+
+.secondary {
+  background-color: #fff;
+  color: #000;
+}
+
+.disabled {
+  background-color: blue;
+  opacity: 0.3;
+  color: #000;
+  cursor: not-allowed;
+}
